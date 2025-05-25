@@ -1,50 +1,50 @@
 import random
 
-user=0
+player_choice_number=0
 
-comc=random.randint(1,3)
-if comc==1:
-    comp=('✊🏻')
-elif comc==2:
-    comp=('🤚🏻')
+computer_choice_number=random.randint(1,3)
+if computer_choice_number==1:
+    computer_choice=('✊🏻')
+elif computer_choice_number==2:
+    computer_choice=('🤚🏻')
 else:
-    comp=('✌🏻')
+    computer_choice=('✌🏻')
 
 print('Rock Paper Scissors')
 print('1) ✊🏻')
 print('2) 🤚🏻')
 print('3) ✌🏻')
-user=int(input('Pick a number: '))
+player_choice_number=int(input('Pick a number: '))
 
 
-if user==1:
-    use=('✊🏻')
-elif user==2:
-    use=('🤚🏻')
+if player_choice_number==1:
+    player_choice =('✊🏻')
+elif player_choice_number==2:
+    player_choice =('🤚🏻')
 else:
-    use=('✌🏻')
+    player_choice =('✌🏻')
 
-print(f'You chose: {use}')
-print(f'CPU chose: {comp}')
+print(f'You chose: {player_choice}')
+print(f'CPU chose: {computer_choice}')
 
-if user==1:
-    if comc==1:
+if player_choice_number==1:
+    if computer_choice_number==1:
       print('Tie')
-    elif comc==2:
+    elif computer_choice_number==2:
         print('CPU won')
     else:
         print('Player won')
-elif user==2:
-    if comc==1:
+elif player_choice_number==2:
+    if computer_choice_number==1:
       print('Player Won')
-    elif comc==2:
+    elif computer_choice_number==2:
         print('Tie')
     else:
         print('CPU won')
-elif user==3:
-    if comc==1:
+elif player_choice_number==3:
+    if computer_choice_number==1:
       print('CPU won')
-    elif comc==2:
+    elif computer_choice_number==2:
         print('Player won')
     else:
         print('Tie')
