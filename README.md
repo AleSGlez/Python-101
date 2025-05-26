@@ -24,40 +24,31 @@ Topics include:
 
 ## 🗂️ Repository Structure
 
-You can click on each folder name to navigate directly to its contents:
-
-* [📝 README.md](README.md) — Main documentation file
-* [🐍 01\_intro](01_intro/) — Hello World and basic syntax
-* [🧠 02\_variables](02_variables/) — Understanding variables and types
-* [🔄 03\_control\_flow](03_control_flow/) — If/Else statements and control flow
-* [✨ 04\_loops](04_loops/) — For and while loops
-* [🧰 05\_lists](05_lists/) — Lists and list operations
-* [🧪 06\_functions](06_functions/) — Defining and using functions
-* [🧪 07\_classes\_objects](07_classes_objects/) — Introduction to OOP: classes and objects
-* [📦 08\_modules](08_modules/) — Importing and using Python modules
-* [🧩 09\_checkpoint\_projects](09_checkpoint_projects/) — Small projects to review progress
-* [🏁 10\_final\_project](10_final_project/) — The final capstone project
+```
+Python-101/
+│
+├── 📝 0 - README/                 # Main documentation file
+├── 🐍 1 - Intro/                  # Hello World and basic syntax
+├── 🧠 2 - Variables/              # Understanding variables and types
+├── 🔄 3 - Control Flow/           # If/Else statements and control flow
+├── ✨ 4 - Loops/                  # For and while loops
+├── 🧰 5 - Lists/                  # Lists and list operations
+├── 🧪 6 - Functions/              # Defining and using functions
+├── 🧪 7 - Classes & Objects/      # Object-oriented programming
+├── 📦 8 - Modules/                # Importing and using Python modules
+├── 🧩 Checkpoint Projects/        # Small projects to review progress
+└── 🏁 Final Project/              # The final capstone project
+```
 
 ## 🧙‍♀️ Why *The Legend of Python*?
 
 Because every line of code is a step toward becoming a legendary developer. This course makes learning fun, visual, and progressive — just like leveling up in a video game.
 
-## 🚀 How to Use This Repository
-
-Explore each folder or follow the lesson order from the Codedex course. Every file includes comments and clean code for practicing and reviewing.
-
-```bash
-git clone https://github.com/your-username/Python-101.git
-cd Python-101
-```
-
-Let the adventure begin! 💻⚔️
-
 ## 🧩 Highlighted Projects
 
-* [Rock, Paper, Scissors](09_checkpoint_projects/rock_paper_scissors.py) — My first logic duel!
-* [Slot Machine](09_checkpoint_projects/slot_machine.py) — Testing luck with lists and random
-* [Pokédex](09_checkpoint_projects/pokedex.py) — Creating classes and objects like a true Pokémon trainer
+* Rock, Paper, Scissors — My first logic duel!
+* Slot Machine — Testing luck with lists and random
+* Pokédex — Creating classes and objects like a true Pokémon trainer
 
 ---
 
