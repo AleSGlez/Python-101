@@ -28,10 +28,10 @@ You can click on each folder name to navigate directly to its contents:
 
 * [📝 README.md](README.md) — Main documentation file
 * [🐍 01\_intro](01_intro/) — Hello World and basic syntax
-* [🧠 02\_variables](02 - variables/) — Understanding variables and types
+* [🧠 02\_variables](02_variables/) — Understanding variables and types
 * [🔄 03\_control\_flow](03_control_flow/) — If/Else statements and control flow
 * [✨ 04\_loops](04_loops/) — For and while loops
-* [🧰 05\_lists](05 - lists/) — Lists and list operations
+* [🧰 05\_lists](05_lists/) — Lists and list operations
 * [🧪 06\_functions](06_functions/) — Defining and using functions
 * [🧪 07\_classes\_objects](07_classes_objects/) — Introduction to OOP: classes and objects
 * [📦 08\_modules](08_modules/) — Importing and using Python modules
