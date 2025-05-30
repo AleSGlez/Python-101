@@ -97,6 +97,8 @@ elif random_planet == "Saturn":
 else:
   print('Oops! An error occurred')
 ```
+### Preview of the code and the terminal
+![image](https://github.com/user-attachments/assets/2999e807-a681-458a-bb19-44198a452a46)
 
 ### 🔍 Bonus Tip:
 - Use `round()` to make the result more readable.
